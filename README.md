@@ -5,6 +5,7 @@ Oyunda Yapay zeka bulunmakta
 malesef kullandığım programdan dolayı görüntü bozuk oluştu 
 Not: Oyunda Gamepad desteği bulunmakta
 
+Download Game: https://www.dosya.tc/server37/pgdizp/ShooterGame.rar.html
 
 https://user-images.githubusercontent.com/84273839/182123037-d1854ddf-6b0b-43fe-94c5-48cc8597b8f2.mp4
 
