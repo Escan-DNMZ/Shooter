@@ -1,8 +1,8 @@
 # Shooter
-Unreal Engine 5 ile yapıldı tamamen C++ kullanıldı
+Unreal Engine 5 ile yapıldı C++ kullanıldı
 
-Oyunda Yapay zeka bulunmakta 
-malesef kullandığım programdan dolayı görüntü bozuk oluştu 
+Oyunda Yapay zeka bulunmakta yapay zeka dahil her mekanik C++ ile yapıldı
+
 Not: Oyunda Gamepad desteği bulunmakta
 
 # Devlog#2
