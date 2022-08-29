@@ -5,6 +5,19 @@ Oyunda Yapay zeka bulunmakta yapay zeka dahil her mekanik C++ ile yapıldı
 
 Not: Oyunda Gamepad desteği bulunmakta
 
+# Devlog#3
+
+
+
+https://user-images.githubusercontent.com/84273839/187229600-06767d1c-1367-4b58-9436-134fad9693f1.mp4
+
+Silah değiştirme özelliği getirdim silahına göre farklı damage ve farklı efektler devreye girmekte ayriyetden score sistemi getirildi öldürülen düşman başına 5 score gelir ve oyun bittiğinde save edilir oyunu kapat aç yaptığınızda score sistemi save üzerinden yüklenir
+
+
+https://user-images.githubusercontent.com/84273839/187229744-5dfee579-aea7-4447-b923-fd11d71d4499.mp4
+
+
+
 # Devlog#2
 Heal sistemi getirildi karakter hasar yerse heal noktasına gidip +10 hp kazanabilir
 
