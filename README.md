@@ -5,6 +5,9 @@ Oyunda Yapay zeka bulunmakta yapay zeka dahil her mekanik C++ ile yapıldı
 
 Not: Oyunda Gamepad desteği bulunmakta
 
+Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+projenin başlangıcını yapıtğım kurs
+
 # Devlog#3
 
 
